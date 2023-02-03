@@ -1,5 +1,5 @@
 # AWESOME TECH MEMES
-_git, code, laugh_
+_live, code, laugh_
 
 QUICK GUIDE:
 
