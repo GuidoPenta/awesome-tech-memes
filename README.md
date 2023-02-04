@@ -14,4 +14,15 @@ please upload memes images in the proper folder (assets/images). That's all :)
 
 ![be-fe-404.png](./assets/images/be-fe-404.png)
 
+*Css fixing*
+
+![css-fixing.png](./assets/images/css-fixing.png)
+
+*New project idea*
+
+![project-idea.png](./assets/images/project-idea.png)
+
+*You made nothing special*
+
+![revert-config.png](./assets/images/revert-config.png)
 
