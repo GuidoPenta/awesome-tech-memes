@@ -28,11 +28,11 @@ please upload memes images in the proper folder (assets/images). That's all :)
 
 *Netflix sharing*
 
-![netflix-accounts-shareability.jpg](./assets/images/netflix-accounts-shareability.jpg)
+![netflix-accounts-shareability.jpeg](./assets/images/netflix-accounts-shareability.jpeg)
 
 *Big Data Cable*
 
-![big-cable.jpg](./assets/images/big-cable.jpg)
+![big-cable.jpg.jpeg](./assets/images/big-cable.jpg.jpeg)
 
 
 
