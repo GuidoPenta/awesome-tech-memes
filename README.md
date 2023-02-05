@@ -26,3 +26,7 @@ please upload memes images in the proper folder (assets/images). That's all :)
 
 ![revert-config.png](./assets/images/revert-config.png)
 
+*Netflix sharing*
+
+![netflix-profile-shareability.jpg](./assets/images/netflix-profile-shareability.jpg)
+
