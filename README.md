@@ -36,5 +36,5 @@ please upload memes images in the proper folder (assets/images). That's all :)
 
 *Ready for Deployment*
 
-![deployment.jpeg](./assets/images/deployment.jpeg)
+![deployment.jpg](./assets/images/deployment.jpg)
 
