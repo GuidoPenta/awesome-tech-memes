@@ -28,5 +28,5 @@ please upload memes images in the proper folder (assets/images). That's all :)
 
 *Netflix sharing*
 
-![netflix-profile-shareability.jpg](./assets/images/netflix-profile-shareability.jpg)
+![netflix-accounts-shareability.jpg](./assets/images/netflix-accounts-shareability.jpg)
 
