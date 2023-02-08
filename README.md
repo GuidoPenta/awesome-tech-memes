@@ -38,3 +38,22 @@ please upload memes images in the proper folder (assets/images). That's all :)
 
 ![deployment.jpg](./assets/images/deployment.jpg)
 
+*Ai vs If else*
+
+![ai-batteries.jpg](./assets/images/ai-batteries.jpg)
+
+*Bugs reactions*
+
+![bugs-babies.jpg](./assets/images/bugs-babies.jpg)
+
+*Chat Gpt*
+
+![chatgpt-scooby.jpg](./assets/images/chatgpt-scooby.jpg)
+
+*Excel*
+
+![crab-excel.jpg](./assets/images/crab-excel.jpg)
+
+*Code Review*
+
+![code-review.jpg](./assets/images/code-review.jpg)
